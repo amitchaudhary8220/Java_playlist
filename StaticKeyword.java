@@ -1,5 +1,5 @@
 public class StaticKeyword {
-    // static int a=5;
+    static int a=5;
     // static int b;
 
     // //static block runs only once at the loading of the class
